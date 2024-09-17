@@ -5,6 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-node:20-slim
-golang:1.19
-python:3.11-slim
+langgenius/dify-api:0.8.2
+langgenius/dify-web:0.8.2
+langgenius/dify-sandbox:0.2.9
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
