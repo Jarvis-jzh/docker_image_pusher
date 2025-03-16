@@ -7,6 +7,6 @@
 
 #minio/minio:latest
 #minio/mc:latest
-starrocks/fe-ubuntu:latest
-starrocks/cn-ubuntu:latest
+starrocks/fe-ubuntu:3.4-latest
+starrocks/cn-ubuntu:3.4-latest
 
