@@ -5,7 +5,10 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-minio/minio:latest
-minio/mc:latest
-starrocks/fe-ubuntu:3.3-latest
-starrocks/cn-ubuntu:3.3-latest
+#minio/minio:latest
+#minio/mc:latest
+#starrocks/fe-ubuntu:3.3-latest
+#starrocks/cn-ubuntu:3.3-latest
+
+
+chat2db/chat2db:latest
