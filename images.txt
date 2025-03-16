@@ -11,4 +11,4 @@
 #starrocks/cn-ubuntu:3.3-latest
 
 
-chat2db/chat2db:latest
+mysql:8.4.4
