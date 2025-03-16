@@ -5,4 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-quay.io/titansoft/imagepullsecret-patcher:v0.14
+minio/minio:latest
+minio/mc:latest
+starrocks/fe-ubuntu:3.3-latest
+starrocks/cn-ubuntu:3.3-latest
