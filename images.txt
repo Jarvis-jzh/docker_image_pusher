@@ -10,5 +10,5 @@
 #starrocks/fe-ubuntu:3.4-latest
 #starrocks/cn-ubuntu:3.4-latest
 
-eosphorosai/dbgpt:latest
+python:3.11-slim-bullseye
 
