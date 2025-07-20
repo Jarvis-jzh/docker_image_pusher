@@ -10,5 +10,6 @@
 #starrocks/fe-ubuntu:3.4-latest
 #starrocks/cn-ubuntu:3.4-latest
 
-postgres:17.5-alpine
+	
+chat2db/chat2db:latest
 
