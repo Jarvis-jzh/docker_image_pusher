@@ -8,4 +8,4 @@
 #minio/mc:latest
 #starrocks/fe-ubuntu:3.4-latest
 #starrocks/cn-ubuntu:3.4-latest
-chat2db/chat2db:0.3.7
+openjdk:17
