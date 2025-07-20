@@ -10,6 +10,5 @@
 #starrocks/fe-ubuntu:3.4-latest
 #starrocks/cn-ubuntu:3.4-latest
 
-rancher/rancher:v2.10.3-hotfix-5492.3
-rancher/rancher:latest
+postgres:17.5-alpine
 
