@@ -11,5 +11,5 @@
 #starrocks/cn-ubuntu:3.4-latest
 
 	
-chat2db/chat2db:latest
+chat2db/chat2db:0.3.7
 
