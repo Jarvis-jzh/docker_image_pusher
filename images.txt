@@ -8,9 +8,5 @@
 #minio/mc:latest
 #starrocks/fe-ubuntu:3.4-latest
 #starrocks/cn-ubuntu:3.4-latest
-bitnami/elasticsearch:8.18.0
-bitnami/etcd:3.5
-milvusdb/milvus:v2.5.10
-nsqio/nsq:v1.2.1
-cozedev/coze-studio-server:latest
-cozedev/coze-studio-web:latest
+bitnami/elasticsearch:8.19.3
+bitnami/elasticsearch:9.1.2
